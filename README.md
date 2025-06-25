@@ -22,7 +22,7 @@
 6. **Save and Share**: Save the final image or share it with others.
 
 ### Technologies Used
-
+- **Flutter**: Cross-platform framework for mobile app development, supporting both Android and iOS platforms.
 - **Flutter**: Cross-platform framework for mobile app development.
 - **Dart**: Programming language used in Flutter app development.
 - **Provider**: For application state management and data sharing between app components.
@@ -56,7 +56,7 @@
 6. **الحفظ والمشاركة**: احفظ الصورة النهائية أو شاركها مع الآخرين.
 
 ### التقنيات المستخدمة
-
+- **Flutter**: إطار عمل متعدد المنصات لتطوير تطبيقات الموبايل، يدعم كلاً من أندرويد و iOS.
 - **Flutter**: إطار عمل متعدد المنصات لتطوير تطبيقات الموبايل.
 - **Dart**: لغة البرمجة المستخدمة في تطوير تطبيقات Flutter.
 - **Provider**: لإدارة حالة التطبيق وتبادل البيانات بين مكونات التطبيق.
